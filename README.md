@@ -10,7 +10,7 @@ The project is structured for both **researchers** and **practitioners**, offeri
 
 ## 📦 Key Features
 
-- ✅ **Ghost-DeepResNet Block** — Efficient residual units with attention  
+- ✅ **Ghost-DeepResNet Block** — Efficient residual block with Ghost module
 - ✅ **Ghost-DeepResNet Model** — The classification model  
 - ✅ Flexible config system for architecture variants  
 - ✅ Multi-GPU distributed training (via `MirroredStrategy`)
