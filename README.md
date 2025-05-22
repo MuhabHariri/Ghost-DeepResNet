@@ -56,10 +56,12 @@ Dataset/
     ├── class_1/
     ├── class_2/
     └── ...
+```
 Update paths in src/config.py: 
 ```bash
 TRAIN_DIR = "\Dataset\Train"
 VAL_DIR   = "\Dataset\Val"
+Test_DIR  = "\Dataset\Test"
 ```
 
 ---
