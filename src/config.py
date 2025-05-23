@@ -16,9 +16,9 @@ OUTPUT_CHANNELS = 3  # RGB
 dropout_rate = 0.05
 
 #Dir of training and validation data
-TRAIN_DIR = r"E:\Strawberry_project\Manuscript_learning rate\New_project_multi_classes\train"
-VAL_DIR = r"E:\Strawberry_project\Manuscript_learning rate\New_project_multi_classes\validation"
-Test_DIR = r"E:\Strawberry_project\Manuscript_learning rate\New_project_multi_classes\test"
+TRAIN_DIR = r"Dataset\train"
+VAL_DIR = r"Dataset\validation"
+Test_DIR = r"Dataset\test"
 
 
 
