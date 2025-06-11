@@ -13,7 +13,7 @@ The project is structured for both **researchers** and **practitioners**, offeri
 - ✅ **Ghost-DeepResNet Block** — Efficient residual block with Ghost module
 - ✅ **Ghost-DeepResNet Model** — The classification model  
 - ✅ Flexible config system for architecture variants  
-- ✅ Multi-GPU distributed training (via `MirroredStrategy`)
+- ✅ Multi-GPU distributed training 
 
 ---
 
