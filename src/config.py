@@ -15,9 +15,9 @@ OUTPUT_CHANNELS = 3  # RGB
 dropout_rate = 0.05
 
 #Dir of training and validation data
-TRAIN_DIR = r"E:\Pruning\train"
-VAL_DIR = r"E:\Pruning\validation"
-Test_DIR = r"E:\Pruning\test"
+TRAIN_DIR = r"Dataset\train"
+VAL_DIR = r"Dataset\validation"
+Test_DIR = r"Dataset\test"
 
 #Class names extraction
 CLASS_NAMES = np.array([
