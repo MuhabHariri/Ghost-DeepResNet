@@ -1,6 +1,6 @@
 # 🧠 Ghost-DeepResNet — An ultra-lightweight classification model with very low FLOPs and parameter count for identifying strawberry diseases and disorders
 
-This repository accompanies the paper **"Ghost-DeepResNet: A High-Performance Ultra-Lightweight Model for Strawberry Disease and Disorder Detection"**
+This repository accompanies the paper **"Efficient Strawberry Leaf Classification with Novel and Ultra-Lightweight Ghost-DeepResNet Models"**
 
 The project is structured for both **researchers** and **practitioners**, offering a clean, modular, and reproducible codebase.
 
